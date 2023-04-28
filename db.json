@@ -1,0 +1,25 @@
+{
+    "habits":[
+        {
+            "name": "Smocking",
+            "stopdate": "01/01/2023",
+            "icons": "images/bicycle.png"
+        },
+        {
+            "name": "road crossing",
+            "stopdate": "01/01/2023",
+            "icons": "images/road.png"
+        },
+        {
+            "name": "eating",
+            "stopdate": "01/01/2023",
+            "icons": "images/healthy-eating.png"
+        },
+        {
+            "name": "sleep",
+            "stopdate": "01/01/2023",
+            "icons": "images/sleep.png"
+        }
+
+    ]
+}
