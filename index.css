@@ -1,0 +1,40 @@
+.container{
+    background-color: aliceblue;
+    max-width: 800px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem;
+    padding: 3rem;
+}
+.headsign{
+    text-align: center;
+    font-size: smaller;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.allsigns{
+    display: flex;
+    justify-content: space-between;
+    margin: 7rem;
+    padding-top: 2px;
+}
+img{
+    width: 3rem;
+
+}
+.sign1{
+    
+    border: 2px solid lightskyblue;
+    width: 20rem;
+    gap: 10rem;
+
+}
+.sign1 img p{
+    align-items: center;
+}
+p{
+    color: white;
+}
